@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This application implements a simple command line based storefront using the npm inquirer and mysql package along with a MySQL database backend. The application presents one interface, customer, with a manager and supervisor interface in the works.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephRivera10/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephRivera10/bamazon/issues"
+  },
+  "homepage": "https://github.com/JosephRivera10/bamazon#readme"
+}
